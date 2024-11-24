@@ -1,0 +1,102 @@
+pre_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [One of my goals is to show others that I’m good at my class work.]
+pre_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I am striving to understand the content of this course as thoroughly as possible.]
+pre_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [My goal is to learn as much as possible.]
+pre_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [One of my goals is to have other students in my class think I am good at my class work.]
+pre_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [My aim is to perform well relative to other students.]
+pre_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [My aim is to completely master the material presented in this class.]
+pre_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [One of my goals is to show others that class work is easy for me.]
+pre_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [One of my goals is to look smart in comparison to other students in my class.]
+pre_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [My goal is to perform better than the other students.]
+pre_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I aim to look smart compared to others in my class.]
+pre_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I am striving to do well compared to other students.]
+end_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I think what we are learning in this class is interesting.]
+end_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I think I will be able to use what I learn in this course in other courses.]
+end_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I would recommend this class to others.]
+end_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I am enjoying this computer science class very much.]
+end_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I think the field of computer science is very interesting.]
+end_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [This class has been a waste of my time.]
+end_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I’m glad I took this class.]
+end_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I think the course material in this class is useful for me to learn.]
+end_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I would like to take more computer science classes after this one.]
+end_Indicate the extent to which each statement is true of you from 1 (not at all) to 7 (very): [I am more likely to register for another computer science class because of my experience in this course.]
+end_Please select the approximate percentage of time that you do the following.
+When I get a response from Copilot, how often do you: [Read the code]
+end_Please select the approximate percentage of time that you do the following.
+When I get a response from Copilot, how often do you: [Test the code]
+end_Please select the statement that best described your experience working with Copilot this term.
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [I'm certain I can master the skills taught in my CSE 8A class this term.]
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [I'm certain I can figure out how to do the most difficult work in my CSE 8A class.]
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [I can do almost all the work in CSE 8A if I don't give up.]
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [Even if the work is hard in CSE 8A, I can learn it.]
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [I can do even the hardest work in CSE 8A if I try.]
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [You have a certain amount of programming intelligence, and you can’t really do much to change it.]
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [You can learn new things, but you can’t really change your programming intelligence.]
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [To be honest, you can’t really change your programming intelligence.]
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [People have a certain amount of ability to learn programming, and they really can’t do much to change it.]
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [Anyone has the ability to learn programming and be good at it.]
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [Programming comes naturally to some people but not others.]
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [Not everyone is well-suited for programming.]
+end_How helpful or unhelpful are GenAI tools in learning how to program?
+
+1: Strongly unhelpful
+2: Unhelpful
+3: Slightly unhelpful
+4: Slightly helpful
+5: Helpful
+6: Strongly helpful
+end_How helpful or unhelpful are GenAI tools in learning problem solving skills?
+
+1: Strongly unhelpful
+2: Unhelpful
+3: Slightly unhelpful
+4: Slightly helpful
+5: Helpful
+6: Strongly helpful
+end_How confident or unconfident are you that you can: [Recognize and understand the code Copilot generates.]
+end_How confident or unconfident are you that you can: [Identify the types of coding problems that I should be able to complete without copilot]
+end_How confident or unconfident are you that you can: [Do the tasks in CSE8A without Copilot.]
+end_How confident or unconfident are you that you are learning how to write programs yourself, when using GenAI tools? 
+
+1: Strongly unconfident
+2: Unconfident
+3: Slightly unconfident
+4: Slightly confident
+5: Confident
+6: Strongly confident
+end_How confident or unconfident are you that you have a fundamental understanding of programming concepts? 
+
+1: Strongly unconfident
+2: Unconfident
+3: Slightly unconfident
+4: Slightly confident
+5: Confident
+6: Strongly confident
+end_Please select the approximate percentage of time that you do the following.
+When I get a response from Copilot, how often do you: [Feel you can recognize and understand the code Copilot gives you]
+end_How confident or unconfident do you feel that you could write a program for the given task without Copilot?  (You can, however, use online search to access Python libraries and look up examples.) [Create a variable called “num” and assign the value 5 to it]
+end_How confident or unconfident do you feel that you could write a program for the given task without Copilot?  (You can, however, use online search to access Python libraries and look up examples.) [Write a statement that prints “hello” if a variable “val” has a value greater than 7.]
+end_How confident or unconfident do you feel that you could write a program for the given task without Copilot?  (You can, however, use online search to access Python libraries and look up examples.) [Print the third letter in a string.]
+end_How confident or unconfident do you feel that you could write a program for the given task without Copilot?  (You can, however, use online search to access Python libraries and look up examples.) [Print the sum of all of the elements in a list that has 3 elements.]
+end_How confident or unconfident do you feel that you could write a program for the given task without Copilot?  (You can, however, use online search to access Python libraries and look up examples.) [Print every number from 1 to 100.]
+end_How confident or unconfident do you feel that you could write a program for the given task without Copilot?  (You can, however, use online search to access Python libraries and look up examples.) [Open and print the first line in a file.]
+end_How confident or unconfident do you feel that you could write a program for the given task without Copilot?  (You can, however, use online search to access Python libraries and look up examples.) [For a dictionary d = {“a”: 3, “b”: 4, “c”: 5}, update the value of b to 6.]
+end_How confident or unconfident do you feel that you could write a program for the given task without Copilot?  (You can, however, use online search to access Python libraries and look up examples.) [Imagine you’re given code that flipped an image left to right, change it to flip the image top to bottom.]
+Final Letter Grade (as GPA)
+Project Grade Overall
+Homework Grade Overall
+Reading Quiz Grade Overall
+Lab Grade Overall
+Quiz Grade Overall
+Final Exam Score
+Score for Participation (Overall)
+pre_Before taking CSE 8A this quarter, did you have any prior knowledge in programming or computer science? (Note: We do not expect any prior CS experience before taking this course.)
+pre_What is your intended major?
+pre_On a scale of 1-5, how confident are you about your ability to do well in this course?
+end_Rate how much you agree with each of the following statements from "Strongly disagree" to "Strongly agree". [I feel like I belong in computing.]
+Section (A or B)
+Final_copilot_question
+Final_noncopilot_questions
+Final_A_Part2_Q1
+Final_A_Part2_Q2
+Final_B_Part2_Q1
+Final_B_Part2_Q2

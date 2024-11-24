@@ -1,0 +1,143 @@
+pre_What is your intended major?,count
+Computer Science,42
+Computer Engineering,12
+Math-CS,7
+ICAM,7
+Cognitive Science,7
+Psychology,5
+Human Biology,4
+Applied Mathematics,4
+Mathematics-Computer Science,4
+Bioengineering: Bioinformatics,4
+Biochemistry,3
+Math CS,3
+Bioinformatics,3
+Mathematics - Computer Science,3
+computer science,3
+Interdisciplinary Computing and the Arts,3
+Clinical Psychology,3
+Computer engineering,2
+Math-Computer Science,2
+Molecular and Cell Biology,2
+CSE,2
+Physics,2
+My intended major is Computer Science,2
+Cognitive Science - Design and Interaction,2
+Economics,2
+Business Psychology,2
+Public Health,2
+Mechanical Engineering,2
+Neurobiology,2
+Electrical Engineering,2
+Data Science,2
+My intended major is Computer Engineering under the ECE department.,1
+(MA30) MATHEMATICS-COMPUTER SCIENCE B.S.,1
+Cognitive Science Specialization Clinical Aspects of Cognition,1
+Cognitive Science w/ Spec. Design & Interaction,1
+Psychology and ICAM,1
+ICAM/Interdisciplinary Computing and the Arts,1
+COG SCI with a specialization in machine learning.,1
+MAS Data Science and Engineering,1
+Biology with Specialization in Bioinformatics,1
+Mathematics with Applied Science,1
+COG SCI,1
+ICAM (arts),1
+Mathematics: Probability and Statistics,1
+Mathematics,1
+Public Health/Biostatistics,1
+ICAM (Interdisciplinary Computing and the Arts Major),1
+Business psychology,1
+"BA Psychology, Minor Law and Society",1
+probability and statistics b.s.,1
+Cognitive Science w/ Machine Learning,1
+Psych with Human Health Specialty,1
+ICAM - Arts,1
+Visual Art--ICAM,1
+Biology w/ specialization in Bioinformatics,1
+Management Science,1
+Joint Math Econ,1
+Developmental Psychology,1
+Mathematics (MA29),1
+Literature/Writing,1
+Cogsci,1
+international business,1
+cog sci,1
+Math-Econ,1
+Speculative Design,1
+Math & Economics,1
+Chemistry,1
+Biology,1
+Cognitive Science Design & Interaction,1
+International Business,1
+Environmental Systems,1
+ICAM Music,1
+Human Development,1
+Education Sciences,1
+Cog Sci Neuro,1
+ICAM-Art,1
+Cognitive Science with Specialization in Machine Learning and Neural Computation,1
+ICAM (considering double majoring with cogsci),1
+CS-Math,1
+Mathematics/ Applied Science,1
+Psychology and Public Health,1
+Cog Sci w/ Specialization in Design and Interaction,1
+ICAM- computer science and art,1
+Cog Sci: Machine Learning,1
+"Applied Mathematics, potential Business-Econ double major",1
+Mechanical and Aerospace engingeering,1
+ICAM (Visual Arts),1
+ICAM (music) and Cognitive Science double major,1
+Math-cs,1
+Mathematics and Computer Science,1
+Political Science/International Relations,1
+Mathematics Computer Science,1
+statistics,1
+Math/CS,1
+Computer science,1
+mathematics,1
+Mathematics: Computer Science,1
+computer engineering,1
+"Math-CS, or CSE if that is even possible.",1
+CSE Computer Engineering,1
+Applied Math,1
+Business Econ (considering math-cs too),1
+electrical engineering,1
+Bioengineering,1
+"Computer engineering (or alternatives, currently undeclared)",1
+ICAM- Music,1
+Econ,1
+Management,1
+Cognitive Psychology,1
+Probability and Statistics,1
+Biology w/ spec in Bioinformatics,1
+cognitive science,1
+"Computer Science, Data Science with minor in math",1
+Physics with a specialization in astrophysics but I want to purse a computer science degree,1
+Cognitive and Behavioural Neuroscience,1
+Biology with speclization in bioinformatics,1
+business,1
+Physics with specialization in Astrophysics,1
+probability and statistics major,1
+Communication,1
+"Human Health, Psychology",1
+Applied mathematics,1
+Math,1
+Biology with specialization in bioinformatics,1
+Business Economics / cognitive science design and interaction,1
+Probability & Statistics,1
+CS,1
+Marine biology,1
+Mathematics-computer science,1
+Comp Sci w/Spec in Bioinformatics or Data Science,1
+Biology with specialisation in Bioinformatics,1
+MA35-probability and statistics,1
+Anthropology,1
+Computer Science and Engineering,1
+Undeclared,1
+CS26; Computer Science,1
+Mathematics-C.S.,1
+interdisciplinary computing and the arts,1
+Undecided,1
+CS w/ bioinformatics,1
+CSE: Computer Engineering,1
+International Studies - Economics,1
